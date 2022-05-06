@@ -1,0 +1,31 @@
+This is my parser/interpreter that reads my 'original' code and by parsing it, executes.
+
+The syntax for my code is pretty simple.
+
+Integ-s are integers
+Booly-s are bools
+Floats are floats(pretty straightforward)
+Loops are loops(again)
+Conds are traditional if-s(cond stands for condition)
+And Print is for printing(output).
+
+You can declare the numbers and do mathematical operations with them, like adding(+),subtracting(-),
+muliplying(*),dividing(/ or %).
+
+You can also declare strings by writing a variable and assigning a word(string), which has to 
+be enclosed in '(apostrophe) symbols.
+
+In the end of each line you have to enter a ;(semicolon) symbol.
+The program even returns errors(if you have started testing the program without reding this file
+you already have noticed).
+
+To print basically type print and enter two !(exclamation marks) after the keyword print.
+
+To use loops there are two rules to remember, first one is that the condition has to be 
+enclosed in !(exclamation marks), but unlike the print ines, here you need to input only one on each side,
+same goes for the if(conds).
+
+The bodies of both loops and conditional have to be enclosed in |(vertical bars).
+
+I think I went through all the rules of my interpreter, go ahead test it, have fun, I am open to any
+advices, suggestions and even criticism regarding my projcet. All that is left to say is Have fun!
