@@ -1,5 +1,4 @@
 integ  num  = 8;
-integ  alignas = 5;
 strin barev = 'barev' ;
 booly log = 1;
 print !!  barev;
