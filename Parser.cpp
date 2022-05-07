@@ -25,7 +25,7 @@ std::map<std::string ,std::string>sec_map;
 
 int main(){
 	std::string content = "";
-	std::ifstream text("interpreter.txt");
+	std::ifstream text("Parsable_Text.txt");
 	std::string types ="";
     while(std::getline(text,content))
 	{ 
